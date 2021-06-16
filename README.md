@@ -7,7 +7,7 @@ Both files contains the code to download the dataset.
 
 Files can be run directly on GPU or CPU.
 
-The output of VAE on MANIST data set is as follows:
+### The output of VAE on MANIST data set is as follows:
 
 Plot of latent space for all 10 digits is as follows:
 
@@ -21,7 +21,7 @@ Interpolation between digits 2 to 7 in latent space is shown by gif shown below.
 
 ![vae](https://user-images.githubusercontent.com/37778223/122241394-21343d80-cee0-11eb-8d69-64820339f341.gif)
 
-The output of VAE on CIFAR10 data set is as follows:
+### The output of VAE on CIFAR10 data set is as follows:
 
 The  reconstruction of images is as follows:
 
